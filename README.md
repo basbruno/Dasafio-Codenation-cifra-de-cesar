@@ -1,8 +1,8 @@
 # Dasafio-Codenation-cifra-de-cesar
 Desafio da Cifra de Cesar Codenation, utilizando Google Colab Python#
-https://colab.research.google.com/gist/dremeloke/0fba5d5ca468c1f4845308e84bfc507f/untitled14.ipynb
-info_outline Instruções
-Criptografia de Júlio César
+https://colab.research.google.com/gist/dremeloke/0fba5d5ca468c1f4845308e8##4bfc507f/untitled14.ipynb
+
+#Criptografia de Júlio César
 Segundo o Wikipedia, criptografia ou criptologia (em grego: kryptós, “escondido”, e gráphein, “escrita”) é o estudo e prática de princípios e técnicas para comunicação segura na presença de terceiros, chamados “adversários”. Mas geralmente, a criptografia refere-se à construção e análise de protocolos que impedem terceiros, ou o público, de lerem mensagens privadas. Muitos aspectos em segurança da informação, como confidencialidade, integridade de dados, autenticação e não-repúdio são centrais à criptografia moderna. Aplicações de criptografia incluem comércio eletrônico, cartões de pagamento baseados em chip, moedas digitais, senhas de computadores e comunicações militares. Das Criptografias mais curiosas na história da humanidade podemos citar a criptografia utilizada pelo grande líder militar romano Júlio César para comunicar com os seus generais. Essa criptografia se baseia na substituição da letra do alfabeto avançado um determinado número de casas. Por exemplo, considerando o número de casas = 3:
 
 Normal: a ligeira raposa marrom saltou sobre o cachorro cansado
@@ -45,3 +45,12 @@ O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode 
 
 OBS
 Neste estágio da aceleração não solicitamos que você nos envie o código do programa que você criou, mas recomendamos que você guarde uma cópia pois o mesmo pode ser solicitado nas próximas fases do processo.
+
+
+#Referencias
+https://pythonhelp.wordpress.com/2013/03/21/acessando-conteudo-via-apis-web-baseadas-em-json/
+http://www.sha1-online.com/ para comparar a saida apos estar com 64% de acerto
+
+https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg
+
+https://www.w3schools.com/python/python_json.asp
